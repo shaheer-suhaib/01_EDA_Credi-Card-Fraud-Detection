@@ -1,1 +1,1 @@
-# 01_EDA_Credi-Card-Fraud-Detection
+# DATA SCIENCE COURSE SERIES
